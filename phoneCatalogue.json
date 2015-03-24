@@ -1,0 +1,17 @@
+[
+  {
+    "name": "iPhone 6",
+    "image": "iphone6.jpg",
+    "price": "$300"
+  },
+  {
+    "name": "Samsung Galaxy S6",
+    "image": "samsungGalaxy.jpg",
+    "price": "$250"
+  },
+  {
+    "name": "Blackberry Passport",
+    "image": "blackberryPassport.jpg",
+    "price": "$100"
+  }
+]
