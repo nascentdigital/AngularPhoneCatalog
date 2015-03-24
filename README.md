@@ -5,6 +5,11 @@ Pull the project from github
 git clone https://github.com/nascentdigital/AngularPhoneCatalog.git
 ```
 
+Change directory
+```
+cd AngularPhoneCatalog
+```
+
 Install node modules
 ```
 npm install
