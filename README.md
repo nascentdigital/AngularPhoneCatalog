@@ -15,6 +15,11 @@ Install node modules
 npm install
 ```
 
+Install bower modues
+```
+bower install
+```
+
 Start the server with grunt
 ```
 grunt serve
